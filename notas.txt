@@ -3,3 +3,5 @@ Aprendimos a hacer commits, push y pulla el repositorio de Github
 Aprendimos a usar gitignore para preservar la confidencialidad de la informacion  de usuario personal cuando se trabaje en equipo
 primera linea que añadimos de reto2-git
 Segunda linea que añadimos de reto2-git
+Linea nueva desde el folder clon
+127484f30e5d06d69170d32e6f3e3ed2133d14be
