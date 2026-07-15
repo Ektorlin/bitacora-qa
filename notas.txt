@@ -1,0 +1,3 @@
+Aprendimos a enlazar Git en la computadora local con un repositorio en Github
+Aprendimos a hacer commits, push y pulla el repositorio de Github
+Aprendimos a usar gitignore para preservar la confidencialidad de la informacion  de usuario personal cuando se trabaje en equipo
